@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/texttor/static/css/main.073c9b0a.css",
+    "main.js": "/texttor/static/js/main.dcf5502e.js",
+    "static/js/787.a62004bb.chunk.js": "/texttor/static/js/787.a62004bb.chunk.js",
+    "static/media/logo.svg": "/texttor/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/texttor/index.html",
+    "main.073c9b0a.css.map": "/texttor/static/css/main.073c9b0a.css.map",
+    "main.dcf5502e.js.map": "/texttor/static/js/main.dcf5502e.js.map",
+    "787.a62004bb.chunk.js.map": "/texttor/static/js/787.a62004bb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.dcf5502e.js"
+  ]
+}
